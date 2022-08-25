@@ -57,7 +57,7 @@ class _iOSState extends State<iOS> {
                 ),
                 label: 'today'),
             BottomNavigationBarItem(
-                icon: Icon(CupertinoIcons.rocket_fill), label: 'Games'),
+                icon: Icon(CupertinoIcons.rocket_fill), label: 'games'),
             BottomNavigationBarItem(
                 icon: Icon(CupertinoIcons.app), label: 'Apps'),
             BottomNavigationBarItem(
